@@ -1,7 +1,7 @@
 ## Olá, me chamo Julia Barros. Bem vindo ao meu perfil GitHub! 👋
 
 #### - Estudante de Ciência da Computação da instituição UnicSul
-#### - Em busca de uma primeira oportunidade para ingressar no mercado de trabalho.
+#### - Em busca de uma primeira oportunidade de trabalho.
 
 #
 
