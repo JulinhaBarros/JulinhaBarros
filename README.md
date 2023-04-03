@@ -10,7 +10,7 @@
 <div align="center" style="display: inline-block">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img 
-src=https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.tudocelular.com%2Fsoftware%2Fnoticias%2Fn151181%2Fgithub-aplicativo-oficial-android.html&psig=AOvVaw1--5kOTkxzxUo3sBVNSmLy&ust=1680631074341000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiOieWkjv4CFQAAAAAdAAAAABAE width="40" height="40"/><img
+src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.tudocelular.com%2Fsoftware%2Fnoticias%2Fn151181%2Fgithub-aplicativo-oficial-android.html&psig=AOvVaw1--5kOTkxzxUo3sBVNSmLy&ust=1680631074341000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiOieWkjv4CFQAAAAAdAAAAABAE" width="40" height="40"/><img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </div>
 
