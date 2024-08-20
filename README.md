@@ -1,7 +1,7 @@
 ## Hi, my name is Julia Barros. Welcome to my Github profile! 👋
 
 #### - Student of Computer Science at UnicSul institution
-#### - Looking for a first job opportunity.
+#### - Professional experience: Schneider Electric - IT Digital Intern (Dec 2023 - Aug 2024).
 
 #
 
