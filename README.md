@@ -2,6 +2,7 @@
 
 #### - Student of Computer Science at UnicSul institution
 #### - Professional experience: Schneider Electric - IT Digital Intern (Dec 2023 - Aug 2024).
+####                                                 Systems Developement Intern (Jan 2025 - )
 
 #
 
