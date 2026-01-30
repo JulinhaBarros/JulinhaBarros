@@ -1,7 +1,7 @@
 ## Hi, my name is Julia Barros. Welcome to my Github profile! 👋
 
-#### - Student of Computer Science at UnicSul institution
-#### - Professional experience: K2M Soluções - Systems Developement Intern (Jan 2025 - )
+#### - Graduated of Computer Science 
+#### - Professional experience: K2M Soluções - Systems Developement Intern (Jan 2025 - Dez 2025) / IT Consultant (Jan 2026 -)
 
 #
 
